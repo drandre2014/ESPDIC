@@ -1,2 +1,6 @@
 # ESPDIC
-GitHub repo of the ESPDIC project - Esperanto-English dictionary
+GitHub repo of Paul Denisowski's [ESPDIC project](http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.htm), an electronic Esperanto-English dictionary. This is not the "official" version and any modifications are by the contributors.
+
+# LICENSE
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
